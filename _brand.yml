@@ -25,8 +25,5 @@ color:
   info: su-blue
   
 typography:
-    link:
-        color: info
-  
-
-
+  link:
+    color: info
