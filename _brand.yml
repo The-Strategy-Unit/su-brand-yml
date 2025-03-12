@@ -17,7 +17,6 @@ color:
     su-yellow: "#f9bd07"    
     su-white: "#f5f4f3"
     su-blue: "#5881c1"    
-
   foreground: su-charcoal
   background: su-white
   primary: su-yellow
