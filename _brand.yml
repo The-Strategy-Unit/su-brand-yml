@@ -5,7 +5,11 @@ meta:
     home: https://www.strategyunitwm.nhs.uk/
     github: https://github.com/The-Strategy-Unit    
 
-logo:  
+# adjust these paths if logos are placed elsewhere
+logo:
+  small: logos/logo_black_favicon.png
+  medium:
+    light: logos/logo_black_medium.png
   large: 
     light: logos/logo_black.svg 
     dark: logos/logo_yellow.svg  
