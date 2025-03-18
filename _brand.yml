@@ -10,6 +10,7 @@ logo:
   small: logos/logo_black_favicon.png
   medium:
     light: logos/logo_black_medium.png
+    dark: logos/logo_yellow_medium.png
   large: 
     light: logos/logo_black.svg 
     dark: logos/logo_yellow.svg  
