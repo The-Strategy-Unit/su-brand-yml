@@ -5,7 +5,7 @@ A repository containing SU branding and logos in `_brand.yml` file.
 `_brand.yml` is [supported](https://posit-dev.github.io/brand-yml/#support) for Quarto and Shiny (R & Python). 
 
 
-## For Shiny:
+## For R Shiny:
 bslib v0.9.0+ is required to use `_brand.yml`
 
 - For a `_brand.yml` in same directory as Shiny App add `theme = bs_theme(brand = T)` to UI code to include.
