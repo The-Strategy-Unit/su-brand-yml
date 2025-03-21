@@ -23,6 +23,8 @@ See also [Unified theming with brand.yml](https://rstudio.github.io/bslib/articl
 
 - general guidance website: https://posit-dev.github.io/brand-yml/
 
+- Live Shiny App with editable `_brand.yml`: https://bslib.shinyapps.io/brand-yml/
+
 - NHS-R example: https://posit-dev.github.io/brand-yml/inspiration/brand-guidelines/nhsr-community/
 
 - StrategyUnitTheme repo: https://github.com/The-Strategy-Unit/StrategyUnitTheme
