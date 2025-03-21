@@ -9,7 +9,7 @@ A repository containing SU branding and logos in `_brand.yml` file.
 See [Multiformat branding with `_brand.yml`](https://quarto.org/docs/authoring/brand.html#overview) documentation. 
 
 ## For R Shiny:
-bslib v0.9.0+ is required to use `_brand.yml`
+[bslib](https://rstudio.github.io/bslib/) v0.9.0+ is required to use `_brand.yml`
 
 - For a `_brand.yml` in same directory as Shiny App add `theme = bs_theme(brand = T)` to UI code to include.
 - Otherwise, specify .yml file and any neccessary file paths, e.g. `theme = bs_theme(brand = "folder/your_brand_file_here.yml")`
