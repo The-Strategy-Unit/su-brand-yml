@@ -27,7 +27,24 @@ color:
   primary: su-yellow
   secondary: dark-grey   
   info: su-blue
-  
+
 typography:
+  fonts:
+    - family: "Roboto Slab"
+      weights: [300, 700]
+    - family: "Open Sans"
+      weights: [400, 600, 700]
+
+  base:
+    family: "Open Sans"
+    weight: 400
+
+  headings:
+    family: "Roboto Slab"
+    weight: 700
+
   link:
     color: info
+
+  strong:
+    weight: 700
