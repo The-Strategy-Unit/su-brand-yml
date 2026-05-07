@@ -1,7 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Roboto+Slab:wght@300;700&display=swap");
 
 body {
-  font-family: 'Roboto', Arial, sans-serif;
+  font-family: "Open Sans", Arial, sans-serif;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6,
+.home h1, .home h2, .home h3 {
+  font-family: "Roboto Slab", "Open Sans", Arial, sans-serif;
+  font-weight: 700;
+  text-align: center;
 }
 
 :root {
@@ -54,10 +62,6 @@ body,
 }
 
 .center {
-  text-align: center;
-}
-
-.home h1, .home h2, .home h3 {
   text-align: center;
 }
 
