@@ -14,13 +14,6 @@
     light = "logos/logo_black.svg"
     dark = "logos/logo_yellow.svg"
 
-[color.palette]
-  dark-grey = "#959595"
-  su-charcoal = "#2c2825"
-  su-yellow = "#f9bd07"
-  su-white = "#f5f4f3"
-  su-blue = "#5881c1"
-
 [color]
   foreground = "su-charcoal"
   background = "su-white"
@@ -28,5 +21,31 @@
   secondary = "dark-grey"
   info = "su-blue"
 
+[color.palette]
+  dark-grey = "#959595"
+  su-charcoal = "#2c2825"
+  su-yellow = "#f9bd07"
+  su-white = "#f5f4f3"
+  su-blue = "#5881c1"
+
+[typography.base]
+family = "Open Sans"
+weight = 400
+
+[typography.headings]
+family = "Roboto Slab"
+weight = 700
+
 [typography.link]
-  color = "info"
+color = "info"
+
+[typography.strong]
+weight = 700
+
+[[typography.fonts]]
+family = "Roboto Slab"
+weights = [300, 700]
+
+[[typography.fonts]]
+family = "Open Sans"
+weights = [400, 600, 700]
