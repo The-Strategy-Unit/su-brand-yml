@@ -31,9 +31,11 @@ color:
 typography:
   fonts:
     - family: "Roboto Slab"
-      weights: [300, 700]
+      weight: [300, 700]
+      source: google
     - family: "Open Sans"
-      weights: [400, 600, 700]
+      weight: [400, 600, 700]
+      source: google
 
   base:
     family: "Open Sans"
@@ -45,6 +47,3 @@ typography:
 
   link:
     color: info
-
-  strong:
-    weight: 700
